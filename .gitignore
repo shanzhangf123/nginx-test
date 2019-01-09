@@ -5,6 +5,7 @@
 /tmp
 /out-tsc
 .vscode
+workspace.xml
 
 # /src/environments/environment.dev.ts
 
